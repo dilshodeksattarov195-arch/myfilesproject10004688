@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfave",
+        "uuid": 27241968,
+        "checksum": "uey3e"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
